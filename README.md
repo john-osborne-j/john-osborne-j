@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Osborne</h1>
-<h3 align="center"> Hello, AI World! 👋 I'm an AI enthusiast from India, taking my first steps into the fascinating world of artificial intelligence. This repository documents my learning journey as I dive deep into the concepts, technologies, and possibilities that AI offers.  What you'll find here - My experiments with various AI models and frameworks - Projects that reflect my growing understanding - Resources that have helped me along the way - Insights and learnings from my perspective as a newcomer to this field I believe in learning in public and sharing knowledge as I grow. Join me as I explore the incredible potential of AI technology, one line of code at a time! #AIJourney #MachineLearning #DeepLearning #IndianTechCommunity</h3>
+<h3 align="center"> Hello, AI World! 👋 I'm an AI enthusiast from India, taking my first steps into the fascinating world of artificial intelligence. This repository documents my learning journey as I dive deep into the concepts, technologies, and possibilities that AI offers. What you'll find here - My experiments with various AI models and frameworks - Projects that reflect my growing understanding - Resources that have helped me along the way - Insights and learnings from my perspective as a newcomer to this field I believe in learning in public and sharing knowledge as I grow. Join me as I explore the incredible potential of AI technology, one line of code at a time! #AIJourney #MachineLearning #DeepLearning #IndianTechCommunity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=john-osborne-j&label=Profile%20views&color=0e75b6&style=flat" alt="john-osborne-j" /> </p>
 
@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/john_osborne_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="john_osborne_j" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
